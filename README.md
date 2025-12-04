@@ -1,2 +1,57 @@
-# EB-Bridging
-The offical Bug Tracker for EB Bridging
+# EB Bridging – Bug Tracker
+
+Welcome to the official bug tracking repository for **EB Bridging**, the Eaglercraft-compatible Minecraft bridging server.  
+
+If you encounter bugs, glitches, exploits, crashes, or performance issues on the server, please report them here so we can fix them as quickly as possible!
+
+---
+
+## 📌 What You Can Report Here
+- Gameplay bugs (bridging issues, movement bugs, island glitches)
+- Dupe or game-breaking exploits
+- Server performance issues
+- Plugin-related errors
+- Map issues / void glitches
+- Anti-cheat false positives
+- UI / menu / scoreboard bugs
+- Anything else affecting gameplay
+
+---
+
+## ❗ Before Submitting an Issue
+Please make sure:
+- The bug is **not already reported** (check open issues)
+- You provide **clear steps** to reproduce the bug
+- You include **video evidence** if possible
+- You use the **proper issue template** below
+
+This helps us reproduce and fix bugs faster 🔧
+
+---
+
+## 📝 Issue Format (Copy this when creating a new issue)
+
+Bug Title:
+A short, clear title that summarizes the problem.
+
+Description:
+Describe the bug in detail. What were you expecting to happen? What happened instead?
+
+Steps to Reproduce:
+Please include exact steps so we can reproduce it.
+
+Where This Happens:
+Server/Game Mode: (e.g. Duel/Practice, Sumo FFA, Bridging, Skywars, Lobby)
+
+Map (if relevant):
+This only applies in Practice.
+
+Version / Client used (Eaglercraft, Java 1.8.9, etc.):
+Self explanatory
+
+Evidence (Required if possible)
+Upload a video, screenshot, or log showing the bug.
+You can link a YouTube unlisted video, Dropbox link, Catbox, Streamables, or upload using GitHub's file uploader.
+
+Additional Info
+Anything else we should know? System info, ping, unusual circumstances, etc.
