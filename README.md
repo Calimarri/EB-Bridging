@@ -1,6 +1,6 @@
 # EB Bridging – Bug Tracker
 
-Welcome to the official bug tracking repository for **EB Bridging**, the Eaglercraft-compatible Minecraft bridging server.  
+Welcome to the official bug tracking repository for **EB Bridging**, the Eaglercraft-compatible Minecraft bridging and PVP server.  
 
 If you encounter bugs, glitches, exploits, crashes, or performance issues on the server, please report them here so we can fix them as quickly as possible!
 
