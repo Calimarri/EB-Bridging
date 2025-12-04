@@ -9,7 +9,7 @@ If you encounter bugs, glitches, exploits, crashes, or performance issues on the
 ## 📌 What You Can Report Here
 - Gameplay bugs (bridging issues, movement bugs, island glitches)
 - Dupe or game-breaking exploits
-- Server performance issues
+- Server performance issues (be specific, don't just say laggg)
 - Plugin-related errors
 - Map issues / void glitches
 - Anti-cheat false positives
@@ -28,8 +28,8 @@ If you encounter bugs, glitches, exploits, crashes, or performance issues on the
 ## ❗ Before Submitting an Issue
 Please make sure:
 - The bug is **not already reported** (check open issues)
-- You provide **clear steps** to reproduce the bug
-- You include **video evidence** if possible
+- You provide **clear steps** to reproduce the bug, don't leave staff guessing what happened
+- You include **video evidence** if possible (make sure it's high quality enough for staff to see whats happening)
 - You use the **proper issue template** below
 
 This helps us reproduce and resolve bugs faster
@@ -43,6 +43,9 @@ A short, clear title that summarizes the problem.
 
 Description:
 Describe the bug in detail. What were you expecting to happen? What happened instead?
+
+Sevearity:
+Low < Medium < High < PATCH THIS SHIT NOW OR ELSE
 
 Steps to Reproduce:
 Please include exact steps so we can reproduce it.
