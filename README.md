@@ -25,6 +25,23 @@ If you encounter bugs, glitches, exploits, crashes, or performance issues on the
   
 ---
 
+## 🧾 How to Create a GitHub Issue (Step-by-Step)
+
+If you’ve never used GitHub before, here’s how to submit a bug report:
+
+1. Scroll to the top of this page and click the **Issues** tab.
+2. Click the green **New Issue** button on the right.
+3. Copy and paste the **Issue Format** from this README into the text box.
+4. Fill out every section as clearly as possible.
+5. Add any screenshots or video evidence using GitHub’s file uploader, or any external links
+   (drag and drop files directly into the text box).
+6. Double-check your report for clarity.
+7. Click **Submit new issue**.
+
+Your issue will appear in the tracker, and staff will review it as soon as possible.
+
+---
+
 ## ❗ Before Submitting an Issue
 Please make sure:
 - The bug is **not already reported** (check open issues)
