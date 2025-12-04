@@ -18,6 +18,13 @@ If you encounter bugs, glitches, exploits, crashes, or performance issues on the
 
 ---
 
+## ❌ What You Cannot Report Here
+- Ban appeals, unless it's an anticheat false positive
+- Player reports (goes in the Discord server)
+- Spam
+  
+---
+
 ## ❗ Before Submitting an Issue
 Please make sure:
 - The bug is **not already reported** (check open issues)
@@ -25,7 +32,7 @@ Please make sure:
 - You include **video evidence** if possible
 - You use the **proper issue template** below
 
-This helps us reproduce and fix bugs faster 🔧
+This helps us reproduce and resolve bugs faster
 
 ---
 
